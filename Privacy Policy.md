@@ -2,7 +2,7 @@ Privacy Policy
 Effective Date: April 1, 2026
 Last Updated: April 1, 2026
 
-Visual Schedule Builder (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices when using the app.
+OwnMyDay Schedule Builder (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices when using the app.
 
 Information We Collect
 Account Information
@@ -80,4 +80,4 @@ Contact Us
 If you have questions or requests about this Privacy Policy, contact:
 
 Email: zane.saboune@gmail.com
-App: OwnMyDay Visual Schedule Builder
+App: OwnMyDay Schedule Builder
