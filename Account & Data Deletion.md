@@ -1,3 +1,3 @@
-how to delete 
+Users can delete their account and personal data directly in the app. From the main screen, open Settings, go to the Danger Zone section, and tap Delete Account. After confirming, the app permanently removes the user’s account and associated personal data, including schedules, registered device records, and any custom photo tiles stored for that account. This action cannot be undone.
 
-what data is deleted
+Once deletion is completed, the user is signed out and can no longer access that account. Shared app resources, such as stock tile images, are not affected. If a user is unable to sign in or cannot complete deletion in-app, they can contact support and request manual account and data deletion assistance by emailing zane.saboune@gmail.com. 
